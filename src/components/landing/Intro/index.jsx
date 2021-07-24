@@ -41,7 +41,7 @@ export const Intro = () => {
                 interest includes but not limited to Web Development, Scalability, Machine Learning/AI, Data Science.
               </p>
               <div className="button-greeting-div">
-                <a href="mailto:hire@ngupta.me">
+                <a href="mailto:hire@aayannikhil.com">
                   <Button>Hire Me</Button>
                 </a>
                 <a href={Resume} target="_blank" rel="noopener noreferrer">

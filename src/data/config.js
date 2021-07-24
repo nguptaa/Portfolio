@@ -2,7 +2,7 @@ module.exports = {
   defaultTitle: 'Nikhil Gupta',
   logo: 'https://raw.githubusercontent.com/nguptaa/portfolio/master/static/favicon/favicon-org.png',
   author: 'Nikhil Gupta',
-  url: 'https://ngupta.me',
+  url: 'https://aayannikhil.com',
   legalName: 'Nikhil Gupta',
   defaultDescription:
     'I’m Nikhil and I am a Full Stack developer with industry experience building websites and web applications. My field ofinterest includes but not limited to Web Development, Scalability, Machine Learning AI, Data Science.',
@@ -21,13 +21,13 @@ module.exports = {
     twitter: '@ngupta183',
   },
   address: {
-    city: 'Pune',
-    region: 'Maharashtra',
-    country: 'India',
-    zipCode: '411013',
+    city: 'Biratnagar',
+    region: 'Province No 1',
+    country: 'Nepal',
+    zipCode: '56613',
   },
   contact: {
-    email: 'contact@ngupta.me',
+    email: 'contact@aayannikihl.com',
     phone: '',
   },
   foundingDate: '2016',

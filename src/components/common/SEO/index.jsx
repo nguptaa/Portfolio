@@ -53,7 +53,7 @@ export const SEO = ({ title = defaultTitle, description = defaultDescription, lo
       <meta name="description" content={description} />
       <meta name="image" content={Thumbnail} />
 
-      <meta property="og:url" content={`${url}${location}/?ref=ngupta.me`} />
+      <meta property="og:url" content={`${url}${location}/?ref=aayannikhil.com`} />
       <meta property="og:type" content="website" />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
