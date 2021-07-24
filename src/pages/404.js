@@ -9,7 +9,7 @@ export default () => (
       <h1>NOT FOUND</h1>
       <p>
         You just hit a route that doesn&#39;t exist... Please go back to{' '}
-        <a href="https://ngupta.me" rel="noopener noreferrer">
+        <a href="https://aayannikhil.com" rel="noopener noreferrer">
           Home
         </a>
         .
